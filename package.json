@@ -1,0 +1,10 @@
+{
+  "name": "bfhl-api",
+  "version": "1.0.0",
+  "description": "BFHL placement API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
